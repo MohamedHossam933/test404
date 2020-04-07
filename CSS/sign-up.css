@@ -104,8 +104,8 @@ body
 
 @font-face
 {
-    font-family: "Hobostd";
-    src: url("Fonts/Hobostd.otf");
+    font-family: Hobostd;
+    src: url(Fonts/Hobostd.otf);
     font-style: normal;
     font-weight: bold;
 }
