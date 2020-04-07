@@ -225,7 +225,7 @@ i
 
 @font-face
 {
-    font-family: "FORTE";
-    src: url("Fonts/FORTE.TTF");
+    font-family: FORTE;
+    src: url(Fonts/FORTE.TTF);
     font-style: normal;
 }
